@@ -1,0 +1,11 @@
+{
+  "name": "transaction-app",
+  "version": "1.0.0",
+  "description": "App to manage transactions",
+  "type": "module",
+  "main": "app.js",
+  "dependencies": {
+    "package.json": "^2.0.1",
+    "readline-sync": "^1.4.10"
+  }
+}
